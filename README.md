@@ -1,4 +1,17 @@
-# WikipediaNetwork
-I created a code in a python that generates a directed graph (G), whose nodes are article titles from Wikipedia. Every edge (u,v) exists if the article titled u can lead you directly to article v through a hyperlink in its content. The initial article I chose for to run my code is "Gödel's incompleteness theorems". The analysis of the network both through the networkx library as well as through gephi gave enough interesting information on the nature of the networks are created by wikipedia hyperlinks but also about the starting article I chose.
+# WikipediaNetwork 🌐
 
-The network created through gephi can be seen in the third page of the greek_presentation&analysis file.
+I wrote a Python script that generates a directed graph (**G**), featuring article titles from Wikipedia as its nodes. Each edge (**u**, **v**) signifies a direct hyperlink connection, where navigating from the article titled **u** leads directly to article **v**.
+
+For my analysis, I initiated the exploration with the article "Gödel's incompleteness theorems." Utilizing the networkx library and gephi, I unearthed valuable insights into the nature of Wikipedia hyperlink networks and gained important information about the chosen topic.
+
+📊 **Analysis Highlights:**
+- Studied the network using the networkx library and gephi.
+- Uncovered details about how Wikipedia hyperlinks form intricate networks.
+- Explored the relationship of the initial article, "Gödel's incompleteness theorems" to other concepts in Philosophy, Mathematics and Formal Logic.
+- 
+👁️ **Visual Insight:**
+- View the gephi-generated network visualization on the third page of the [Greek Presentation & Analysis file](#greek_presentation&analysis).
+
+Enjoy the captivating dynamics of knowledge representation through hyperlinks, in the interconnected world of Wikipedia articles !
+
+#DataScience #NetworkAnalysis #Wikipedia #PythonCoding #GephiVisualization

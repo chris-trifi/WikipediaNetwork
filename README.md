@@ -10,7 +10,7 @@ For my analysis, I initiated the exploration with the article "Gödel's incomple
 - Explored the relationship of the initial article, "Gödel's incompleteness theorems" to other concepts in Philosophy, Mathematics and Formal Logic.
 - 
 👁️ **Visual Insight:**
-- View the gephi-generated network visualization on the third page of the [Greek Presentation & Analysis file](#greek_presentation&analysis).
+- View the gephi-generated network visualization on the third page of the [Greek Presentation & Analysis file](#greek_Presentation&analysis.pdf).
 
 Enjoy the captivating dynamics of knowledge representation through hyperlinks, in the interconnected world of Wikipedia articles !
 
